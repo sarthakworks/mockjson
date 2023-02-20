@@ -32,4 +32,7 @@
 "auth": "true",
   "redirect":"panasonic.jp"
 }
+  "Noauthorization": {
+"auth": "False"
+}
 }
