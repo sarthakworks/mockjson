@@ -28,7 +28,7 @@
 	],
 	"authorization": {
 		"auth": true,
-		"redirect": "/templates/prd001
+		"redirect": "/templates/prd001"
 	},
 	"Noauthorization": {
 		"auth": false
