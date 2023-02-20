@@ -28,7 +28,8 @@
 "postId": 1
 }
 ],
-"profile": {
-"name": "Profile 1"
+"authorization": {
+"auth": "true",
+  "redirect":"panasonic.jp"
 }
 }
